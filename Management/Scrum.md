@@ -31,15 +31,15 @@ Corriger la trajectoire du projet si des écarts avec les résultats à atteindr
 A ces trois piliers, la méthode Scrum ajoute cinq valeurs visant à rendre le travail efficace
 et la collaboration entre le acteurs en présence fluide et en ligne avec les objectifs à atteindre :
 
-La focalisation.
+La focalisation :
 L'équipe projet doit être pleinement focalisée sur le développement à réaliser.
-L'ouverture.
+L'ouverture :
 L'équipe projet comme le management doivent être ouverts sur le mode de fonction de Scrum, en particulier sur la communication interpersonnel pour avancer et résoudre les problèmes ensemble. 
-Le respect.
+Le respect :
 L'ensemble des parties prenantes (membres de l'équipe projet, management et clients) doivent faire preuve de respect mutuel.
-Le courage.
+Le courage :
 Enfin, l'équipe projet doit faire preuve de courage pour relever les défis auxquels elle aura à faire face en toute autonomie.
-L'engagement.
+L'engagement :
 C'est une valeur contribuant également à la réussite de la démarche.
 Les membres de l'équipe Scrum doivent s'engager personnellement à atteindre les objectifs de chaque sprint. 
 
@@ -63,7 +63,7 @@ conception, codage et test.
 Des projets qui se caractérisent par une livraison unique en bout de course qui risque de ne plus coller avec les
 problématiques métier qui auront forcément évolué dans l'intervalle.
 
-Scrum vs Kanban
+SCRUM VS KANBAN : 
 Souvent mises en concurrence, les méthodes agiles Scrum et Kanban s'avèrent bien plus complémentaires qu'il n'y paraît.
 La première vise avant tout à fractionner en plusieurs cycles les processus de développement de produits.
 La seconde, elle, a pour principal objectif de limiter le gaspillage de temps et d'énergie en limitant le nombre de tâches de production à réaliser. 
@@ -71,7 +71,7 @@ La seconde, elle, a pour principal objectif de limiter le gaspillage de temps et
 Alors que Scrum est adapté à la gestion d'un projet unique, Kanban conviendra mieux au management de plusieurs projets
 ou encore à la TMA (tierce maintenance applicative) et au MCO (maintien en condition opérationnelle).
 
-Scrum vs Safe
+SCRUM VS SAFE :
 Si Scrum reste la méthode agile la plus populaire actuellement,
 elle est talonnée par d’autres méthodologies toujours plus performantes en matière d’agilité.
 C’est le cas notamment de Scaled Agile Framework, plus communément appelée Safe,
