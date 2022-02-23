@@ -22,10 +22,6 @@ Liaison avec une feuille de style
 
 Métadonnées de la page web (charset, mots-clés, etc.)
 
-<script>
-
-Code JavaScript
-
 <style>
 
 Code CSS
