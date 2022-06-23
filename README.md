@@ -3,47 +3,45 @@
 # Encyclopedia about React.js and Angular
 Encyclopedia about my template already made.
 
-## React-App-Base
+## React 
+
+### React-App-Base
 https://github.com/Adv13/React-App-base
 
-## React-Fetch 
+### React-Fetch 
 https://github.com/Adv13/React-Fetch
 
-## React-Routing-Webpack
+### React-Routing-Webpack
 https://github.com/Adv13/React-Routing-Webpack
 
-## React-Routing
+### React-Routing
 https://github.com/Adv13/React-Routing
 
-## React-MongoDb (soon)
+### React-MongoDb (soon)
 https://github.com/Adv13/React-MongoDB
 
-## React-Redux (soon)
+### React-Redux (soon)
 https://github.com/Adv13/React-Redux
 
-## React-UseState (soon)
+### React-UseState (soon)
 https://github.com/Adv13/React-UseState
 
-## React-UseEffect (soon)
+### React-UseEffect (soon)
 https://github.com/Adv13/React-UseEffect
 
-## React-Connexion
+### React-Connexion
 https://github.com/Adv13/React-Connexion
 
 
+## React & Angular
 
-
-
-
-# Forked open source templates
-
-## Angular & React Routing
+### Angular & React Routing
 https://github.com/Adv13/angular-react-routing
 
-## Angular & React Starter
+### Angular & React Starter
 https://github.com/Adv13/angular-react-starter
 
-## Angular & React Bootstrap
+### Angular & React Bootstrap
 https://github.com/Adv13/angular-react-bootstrap
 
 ## Angular & React Lazy Loading
