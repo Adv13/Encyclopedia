@@ -47,3 +47,19 @@ https://github.com/Adv13/angular-react-bootstrap
 ## Angular & React Lazy Loading
 https://github.com/Adv13/angular-react-lazy-loading
 ```
+
+## Templates
+```
+### Japanese Restaurant Template
+https://github.com/Adv13/JapaneseRestaurant-Website
+
+### Activities and tourism Template
+https://github.com/Adv13/Activities-Montreal-Website
+
+### Portfolio Template
+https://github.com/Adv13/Portfolio-Website
+
+### Hosting Landing Page Template (soon)
+https://github.com/Adv13/HostingLandingPage-Website
+
+```
