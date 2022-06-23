@@ -4,7 +4,7 @@
 Encyclopedia about my template already made.
 
 ## React 
-
+```
 ### React-App-Base
 https://github.com/Adv13/React-App-base
 
@@ -31,10 +31,10 @@ https://github.com/Adv13/React-UseEffect
 
 ### React-Connexion
 https://github.com/Adv13/React-Connexion
-
+```
 
 ## React & Angular
-
+```
 ### Angular & React Routing
 https://github.com/Adv13/angular-react-routing
 
@@ -46,3 +46,4 @@ https://github.com/Adv13/angular-react-bootstrap
 
 ## Angular & React Lazy Loading
 https://github.com/Adv13/angular-react-lazy-loading
+```
