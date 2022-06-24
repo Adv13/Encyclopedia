@@ -23,7 +23,7 @@ https://github.com/Adv13/React-MongoDB
 ### React-Redux (soon)
 https://github.com/Adv13/React-Redux
 
-### React-UseState (soon)
+### React-UseState
 https://github.com/Adv13/React-UseState
 
 ### React-UseEffect (soon)
