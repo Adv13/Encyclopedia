@@ -6,7 +6,7 @@
 # Encyclopedia about React.js and Angular
 Encyclopedia about my templates already made.
 
-## React 
+# React 
 
 ### React-App-Base
 https://github.com/Adv13/React-App-base
@@ -36,7 +36,7 @@ https://github.com/Adv13/React-UseEffect
 https://github.com/Adv13/React-Connexion
 
 
-## React & Angular
+# React & Angular
 
 ### Angular & React Routing
 https://github.com/Adv13/angular-react-routing
@@ -47,11 +47,11 @@ https://github.com/Adv13/angular-react-starter
 ### Angular & React Bootstrap
 https://github.com/Adv13/angular-react-bootstrap
 
-## Angular & React Lazy Loading
+### Angular & React Lazy Loading
 https://github.com/Adv13/angular-react-lazy-loading
 
 
-## Templates
+# Templates
 
 ### Japanese Restaurant Template
 https://github.com/Adv13/JapaneseRestaurant-Website
