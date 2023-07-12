@@ -60,7 +60,7 @@ https://github.com/Adv13/angular-react-pwa
 https://github.com/Adv13/angular-react-modules
 
 
-#Angular
+# Angular
 
 ### Angular SSR
 https://github.com/Adv13/angular-ssr
