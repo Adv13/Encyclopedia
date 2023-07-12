@@ -50,6 +50,30 @@ https://github.com/Adv13/angular-react-bootstrap
 ### Angular & React Lazy Loading
 https://github.com/Adv13/angular-react-lazy-loading
 
+### Angular & React SEO
+https://github.com/Adv13/angular-react-seo
+
+### Angular & React PWA
+https://github.com/Adv13/angular-react-pwa
+
+### Angular & React Modules
+https://github.com/Adv13/angular-react-modules
+
+
+#Angular
+
+### Angular SSR
+https://github.com/Adv13/angular-ssr
+
+### Angular App
+https://github.com/Adv13/angular-app
+
+### Angular HTTPClient
+https://github.com/Adv13/angular-httpclient
+
+### Angular transfertstate
+https://github.com/Adv13/angular-transferstate
+
 
 # Templates
 
