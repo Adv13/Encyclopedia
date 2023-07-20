@@ -4,7 +4,7 @@
 
 
 # Encyclopedia about React.js and Angular
-Encyclopedia about my templates already made.
+Encyclopedia about templates already made.
 
 # React 
 
