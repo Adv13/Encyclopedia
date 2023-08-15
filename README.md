@@ -4,7 +4,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-# Encyclopedia about React.js and Angular
+# Encyclopedia about React.js & Angular
 Encyclopedia about templates already made.
 
 # React 
