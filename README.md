@@ -7,7 +7,7 @@
 # Encyclopedia about React.js & Angular
 Encyclopedia about templates already made.
 
-# React 
+## React 
 
 ### React-App-Base
 https://github.com/Adv13/React-App-base
